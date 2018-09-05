@@ -1,7 +1,7 @@
 # DLSData
 Python 3.6 is used
 
-Dependencies include numpy, scipy
+Dependencies include numpy, scipy, matplotlib
 
 Collects and processes data from Dynamic Light Scattering BIC.
 
